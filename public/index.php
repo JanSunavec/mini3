@@ -1,5 +1,5 @@
 <?php
-echo "THIS IS MY BRANCH";
+echo "THIS IS MY BRANCH. SECOND";
 
 /**
  * MINI - an extremely simple naked PHP application

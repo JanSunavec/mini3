@@ -1,3 +1,4 @@
 steps:
-  - name: First text
-    plugin: LAMPApp
+  - name: First splugin
+    plugin: Shell
+    command: 'echo "Hello World!"
