@@ -11,6 +11,7 @@ echo "THIS IS MY BRANCH";
  * @license http://opensource.org/licenses/MIT MIT License
  */
 
+echo "TEST 5";
 /**
  * Now MINI work with namespaces + composer's autoloader (PSR-4)
  *
