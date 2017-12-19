@@ -10,6 +10,8 @@
  * @license http://opensource.org/licenses/MIT MIT License
  */
 
+echo "TEST 4";
+
 /**
  * Now MINI work with namespaces + composer's autoloader (PSR-4)
  *
